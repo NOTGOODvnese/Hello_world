@@ -1,2 +1,3 @@
-# Hello_world
-LẬP 09.10.2020
+Tôi Thái Vũ sn 1990
+Tôi cam kết đây la tôi đã viết 
+Thăm khám thường xuyên
